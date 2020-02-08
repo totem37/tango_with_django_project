@@ -36,6 +36,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['totem37.pythonanywhere.com']
 
+SESSION_EXPIRE_AT_BROWSER_CLOSE = True
 
 # Application definition
 
